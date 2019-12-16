@@ -10,3 +10,4 @@ This repo used to gather information about DevOps and learn how to implement IT 
 ## For beginner
 Read follow materials, and make a good note
 1. https://github.com/AcalephStorage/awesome-devops
+2. https://github.com/Tikam02/DevOps-Guide
